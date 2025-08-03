@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+beautifulsoup4>=4.12.0
+yt-dlp>=2023.12.0
+pillow>=10.0.0
+requests>=2.31.0
+trafilatura>=1.6.0
